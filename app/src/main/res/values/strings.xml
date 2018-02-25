@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material Design Codelab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_title">item_title</string>
+    <string name="item_desc">item_title</string>
+    <string name="detail_desc">detail_desc</string>
+    <string name="detail_location">detail_location</string>
+
+</resources>
